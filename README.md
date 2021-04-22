@@ -1,5 +1,6 @@
 # Walters_Final_Project
 Final Project for Intro to Databases
+
 Introduction (Team, Project Description)
 Use Case for Rating System
 Business Rules
